@@ -1,0 +1,1 @@
+# public_wordpress_bibot_plugin
