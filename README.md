@@ -17,9 +17,17 @@ BiBot Chatbot allows you to easily integrate the BiBot AI chatbot into your Word
 
 ## Local Installation
 
-1. Upload the `bibot-chatbot` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Navigate to "Settings" > "BiBot Chatbot" to configure the plugin.
+1. **Install the Plugin:**
+   - You can install the plugin by either:
+     - Uploading the `BiBot.zip` file directly via the "Install Plugin" page in the WordPress admin dashboard.
+     - Or, manually uploading the unzipped `BiBot.zip` folder to the `/wp-content/plugins/` directory via FTP or your hosting control panel.
+
+2. **Activate the Plugin:**
+   - Go to the "Plugins" menu in WordPress and activate the BiBot Chatbot plugin.
+
+3. **Configure the Plugin:**
+   - Navigate to "Settings" > "BiBot Chatbot" in the WordPress admin dashboard to configure the plugin settings according to your needs.
+
 
 ## Frequently Asked Questions
 
